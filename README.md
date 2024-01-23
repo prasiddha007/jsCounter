@@ -1,3 +1,7 @@
+jsCounter
+
+Begineer vanilla Javascript project
+
 More practice working with the DOM.
 
 Key concepts covered:
